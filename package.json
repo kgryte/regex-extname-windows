@@ -1,6 +1,6 @@
 {
   "name": "regex-extname-windows",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Regular expression to capture a Windows filename extension.",
   "author": {
     "name": "Athan Reines",
